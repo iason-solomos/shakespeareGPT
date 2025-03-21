@@ -25,16 +25,15 @@ This project is a **modular, refactored version** of the GPT language model impl
 - Context size: 256 tokens
 
 ## 🗂 Project Structure
-
+'''bash
 shakespreareGPT/
-
 ├── config.py # Hyperparameters and settings (as a dataclass or config object) 
 ├── data_processor_.py # Loads and encodes the training text 
 ├── model.py # Transformer blocks and GPT architecture 
 ├── train.py # Training loop, optimizer, evaluation 
 ├── main.py # Entry point to train and sample from the model 
 └── input.txt # Raw training data (Tiny Shakespeare)
-
+'''
 
 ## 🚀 Getting Started
 
