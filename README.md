@@ -40,8 +40,8 @@ shakespreareGPT/
 ### 1. Clone the repo
 
 
-git clone https://github.com/your-username/mini-gpt.git
-cd mini-gpt
+git clone https://github.com/iason-solomos/shakespeareGPT.git
+cd shakespeareGPT
 
 ### 2. Install dependencies
 pip install torch
